@@ -1,2 +1,3 @@
-# ProxyActivator
-A small program that sets depending on the connected Wi-Fi system proxy under Windows.
+Descripcion
+
+*Pequeño programa en .net para activar el proxy automaticamente de acuerdo al Wifi que se conecte la computadora*
